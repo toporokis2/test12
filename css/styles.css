@@ -6,13 +6,13 @@
 
 #problematico {
 	width: 1000px;
-	height: 300px;
+	height: 400px;
 	padding: 10px;
 	background-color: #ff4499;
 }
 
 .interno1{
 
-	border: solid 2px #33ffaa;
+	border: solid 5px #33ffaa;
 	background-color: #88dddd;
 }
