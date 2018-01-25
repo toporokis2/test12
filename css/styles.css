@@ -1,0 +1,18 @@
+
+
+.body1{
+	background-color: aquamarine;
+}
+
+.problematico {
+	width: 1000px;
+	height: 400px;
+	padding: 10px;
+	background-color: #ff4499;
+}
+
+.interno1{
+
+	border: solid 5px #33ffaa;
+	background-color: #88dddd;
+}
